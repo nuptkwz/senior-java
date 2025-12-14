@@ -4,7 +4,14 @@ Java资深开发实战笔记，作者：科威舟。更多技术干货欢迎关�
 ```
 
 # 资深Java开发笔记
-## Java并发
+
+## Java8实战笔记
+
+- [第0讲：Java8实战16讲大纲笔记](docs/java8-in-action/第0讲：Java8实战16讲大纲笔记.md)
+- [第1讲：为什么需要Java 8？—— 从行为参数化到Lambda](docs/java8-in-action/第1讲：为什么需要Java%208？——%20从行为参数化到Lambda.md)
+- [第2讲：Lambda表达式精讲——语法、类型与使用场景](docs/java8-in-action/第2讲：Lambda表达式精讲——语法、类型与使用场景.md)
+
+## Java并发编程笔记
 
 - [1.Java并发编程基石：深入解析AQS原理与应用实战 ](docs/high-concurrency/1.Java并发编程基石：深入解析AQS原理与应用实战.md)
 - [2.锁的进化论：从synchronized到Lock，谁才是并发编程的终极选择？](docs/high-concurrency/2.锁的进化论：从synchronized到Lock，谁才是并发编程的终极选择？.md)
