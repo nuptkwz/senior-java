@@ -6,10 +6,13 @@ Java资深开发实战笔记，作者：科威舟。更多技术干货欢迎关�
 # 资深Java开发笔记
 ## Java并发
 
-[1.Java并发编程基石：深入解析AQS原理与应用实战 ](docs/high-concurrency/1.Java并发编程基石：深入解析AQS原理与应用实战%20.md)
-
-[2.锁的进化论：从synchronized到Lock，谁才是并发编程的终极选择？](docs/high-concurrency/2.锁的进化论：从synchronized到Lock，谁才是并发编程的终极选择？%20.md)
-
+- [1.Java并发编程基石：深入解析AQS原理与应用实战 ](docs/high-concurrency/1.Java并发编程基石：深入解析AQS原理与应用实战.md)
+- [2.锁的进化论：从synchronized到Lock，谁才是并发编程的终极选择？](docs/high-concurrency/2.锁的进化论：从synchronized到Lock，谁才是并发编程的终极选择？.md)
+- [3.线程池黑科技：如何优雅地知道你的线程任务干完活了？](docs/high-concurrency/3.线程池黑科技：如何优雅地知道你的线程任务干完活了？.md)
+- [4.多线程的禁忌之恋：为什么ConcurrentHashMap与null值不共戴天？](docs/high-concurrency/4.多线程的禁忌之恋：为什么ConcurrentHashMap与null值不共戴天？.md)
+- [5.高并发下的魔法箱：ConcurrentHashMap如何优雅地实现线程安全？](docs/high-concurrency/5.高并发下的魔法箱：ConcurrentHashMap如何优雅地实现线程安全？.md)
+- [6.死锁的求生指南：从死锁到解锁，后端开发的必修课](docs/high-concurrency/5.高并发下的魔法箱：ConcurrentHashMap如何优雅地实现线程安全？.md)
+- [7.Java线程池全解析：从内部机制到实战应用](docs/high-concurrency/6.死锁的求生指南：从死锁到解锁，后端开发的必修课.md)
 
 # 金融
 ## 基金
