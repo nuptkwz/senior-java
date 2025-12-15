@@ -40,12 +40,28 @@
 - [3.深入剖析Java SPI：解密Java生态的扩展魔法](docs/java-basics/3.深入剖析Java%20SPI：解密Java生态的扩展魔法.md)
 - [4.深入理解Java双亲委派机制：为什么说Java类加载像极了公司层级审批？](docs/java-basics/4.深入理解Java双亲委派机制：为什么说Java类加载像极了公司层级审批？.md)
 - [5.深入剖析：为什么Java的SPI机制打破了双亲委派机制？](docs/java-basics/5.深入剖析：为什么Java的SPI机制打破了双亲委派机制？.md)
+- [6.深度揭秘：为什么JDK动态代理只能代理接口？程序员的浪漫与无奈](docs/java-basics/5.深入剖析：为什么Java的SPI机制打破了双亲委派机制？.md)
+
 
 ## Java8实战笔记
 
 - [第0讲：Java8实战16讲大纲笔记](docs/java8-in-action/第0讲：Java8实战16讲大纲笔记.md)
 - [第1讲：为什么需要Java 8？—— 从行为参数化到Lambda](docs/java8-in-action/第1讲：为什么需要Java%208？——%20从行为参数化到Lambda.md)
 - [第2讲：Lambda表达式精讲——语法、类型与使用场景](docs/java8-in-action/第2讲：Lambda表达式精讲——语法、类型与使用场景.md)
+- [第3讲：函数式接口（Functional Interface）—— Lambda的类型](docs/java8-in-action/第3讲：函数式接口（Functional%20Interface）——%20Lambda的类型.md)
+- [第4讲：方法引用与构造器引用——让代码更简洁](docs/java8-in-action/第4讲：方法引用与构造器引用——让代码更简洁.md)
+- [第5讲：初识Stream API——告别显式迭代](docs/java8-in-action/第5讲：初识Stream%20API——告别显式迭代.md)
+- [第6讲：Stream的筛选、切片、映射与查找匹配](docs/java8-in-action/第6讲：Stream的筛选、切片、映射与查找匹配.md)
+- [第7讲：Stream的归约与数值流——数据聚合](docs/java8-in-action/第7讲：Stream的归约与数值流——数据聚合.md)
+- [第8讲：Stream的收集器——强大的终端操作](docs/java8-in-action/第8讲：Stream的收集器——强大的终端操作.md)
+- [第9讲：Stream并行流与性能——利用多核架构](docs/java8-in-action/第9讲：Stream并行流与性能——利用多核架构.md)
+- [第10讲：Stream实战与陷阱——综合案例与最佳实践](docs/java8-in-action/第10讲：Stream实战与陷阱——综合案例与最佳实践.md)
+- [第11讲：Optional——优雅告别NullPointerException](docs/java8-in-action/第11讲：Optional——优雅告别NullPointerException.md)
+- [第12讲：新的日期时间API（上）—— LocalDateLocalTimeLocalDateTime](docs/java8-in-action/第12讲：新的日期时间API（上）——%20LocalDateLocalTimeLocalDateTime.md)
+- [第13讲：新的日期时间API（下）—— Instant、Duration与时区](docs/java8-in-action/第13讲：新的日期时间API（下）——%20Instant、Duration与时区.md)
+- [第14讲：CompletableFuture（上）——构建异步应用](docs/java8-in-action/第14讲：CompletableFuture（上）——构建异步应用.md)
+- [第15讲：CompletableFuture（下）——组合式异步编程](docs/java8-in-action/第15讲：CompletableFuture（下）——组合式异步编程.md)
+- [第16讲：Java 8新特性总结与后续版本窥探](docs/java8-in-action/第16讲：Java8新特性总结与后续版本窥探.md)
 
 ## Java并发编程笔记
 
