@@ -87,5 +87,10 @@
 - [20.Java并发编程的暗号：Happens-Before原则详解](docs/high-concurrency/20.Java并发编程的暗号：Happens-Before原则详解.md)
 - [21.CPU密集型、IO密集型别傻傻分不清！线程池这样设置性能翻倍](docs/high-concurrency/21.CPU密集型、IO密集型别傻傻分不清！线程池这样设置性能翻倍.md)
 - [22.线程的“死而复生”陷阱：为什么Java线程不能两次调用start()方法？](docs/high-concurrency/22.线程的“死而复生”陷阱：为什么Java线程不能两次调用start()方法？.md)
+- [23.Java并发编程利器：Atomic原子类全解析，轻松搞定多线程安全！](docs/high-concurrency/23.Java并发编程利器：Atomic原子类全解析，轻松搞定多线程安全！.md)
+- [24.Java并发编程三大同步工具：用CountDownLatch、CyclicBarrier、Semaphore搞定线程协调！](docs/high-concurrency/24.Java并发编程三大同步工具：用CountDownLatch、CyclicBarrier、Semaphore搞定线程协调！.md)
+- [25.阿里巴巴禁止使用JDK自带线程池？揭秘背后的惊天内幕！](docs/high-concurrency/25.阿里巴巴禁止使用JDK自带线程池？揭秘背后的惊天内幕！.md)
+- [26.深入剖析CopyOnWriteArrayList：写时复制魔法让并发读取飞起来！](docs/high-concurrency/26.深入剖析CopyOnWriteArrayList：写时复制魔法让并发读取飞起来！.md)
+- [27.揭秘CopyOnWriteArraySet：读多写少的并发集合利器](docs/high-concurrency/27.揭秘CopyOnWriteArraySet：读多写少的并发集合利器.md)
 
 ## 
