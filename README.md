@@ -40,8 +40,8 @@
 - [3.深入剖析Java SPI：解密Java生态的扩展魔法](docs/java-basics/3.深入剖析Java%20SPI：解密Java生态的扩展魔法.md)
 - [4.深入理解Java双亲委派机制：为什么说Java类加载像极了公司层级审批？](docs/java-basics/4.深入理解Java双亲委派机制：为什么说Java类加载像极了公司层级审批？.md)
 - [5.深入剖析：为什么Java的SPI机制打破了双亲委派机制？](docs/java-basics/5.深入剖析：为什么Java的SPI机制打破了双亲委派机制？.md)
-- [6.深度揭秘：为什么JDK动态代理只能代理接口？程序员的浪漫与无奈](docs/java-basics/5.深入剖析：为什么Java的SPI机制打破了双亲委派机制？.md)
-
+- [6.深度揭秘：为什么JDK动态代理只能代理接口？程序员的浪漫与无奈](docs/java-basics/6.深度揭秘：为什么JDK动态代理只能代理接口？程序员的浪漫与无奈.md)
+- [7.静态代理 vs 动态代理：深入剖析代理模式的本质区别](docs/java-basics/7.静态代理%20vs%20动态代理：深入剖析代理模式的本质区别.md)
 
 ## Java8实战笔记
 
