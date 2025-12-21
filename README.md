@@ -95,18 +95,24 @@
 
 ## Linux
 
+- [1.掌握这30个Linux命令，轻松玩转终端：运维与开发必备指南](docs/linux/1.掌握这30个Linux命令，轻松玩转终端：运维与开发必备指南.md)
 
 ## Docker
 
+- [1.优化Dockerfile：打造高效镜像的完整指南](docs/docker/1.优化Dockerfile：打造高效镜像的完整指南.md)
 
 ## Kubernetes
 
+- [1.Kubernetes常用命令总结](docs/kubernets/1.Kubernetes常用命令总结.md)
 
 ## MySQL
 
+- [0.Linux下MySQL安装（单机版）](docs/mysql/0.Linux下MySQL安装（单机版）.md)
 
 ## PostgreSQL
 
+- [1.大话Pgvector插件的IVFFlat索引算法](docs/PostgreSQL/1.大话Pgvector插件的IVFFlat索引算法.md)
+- [2.大话PG数据库Pgvector插件的HNSW索引算法](docs/PostgreSQL/2.大话PG数据库Pgvector插件的HNSW索引算法.md)
 
 ## MongoDB
 
