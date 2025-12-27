@@ -42,6 +42,9 @@
 - [5.深入剖析：为什么Java的SPI机制打破了双亲委派机制？](docs/java-basics/5.深入剖析：为什么Java的SPI机制打破了双亲委派机制？.md)
 - [6.深度揭秘：为什么JDK动态代理只能代理接口？程序员的浪漫与无奈](docs/java-basics/6.深度揭秘：为什么JDK动态代理只能代理接口？程序员的浪漫与无奈.md)
 - [7.静态代理 vs 动态代理：深入剖析代理模式的本质区别](docs/java-basics/7.静态代理%20vs%20动态代理：深入剖析代理模式的本质区别.md)
+- [8.Http接口不同状态码故障排查总结](docs/java-basics/8.Http接口不同状态码故障排查总结.md)
+- [9.JDK1.8 String类源码](docs/java-basics/9.JDK1.8%20String类源码.md)
+- [10.ThreadLocal的使用以及源码分析](docs/java-basics/10.ThreadLocal的使用以及源码分析.md)
 
 ## Java8实战笔记
 
@@ -108,6 +111,11 @@
 ## MySQL
 
 - [0.Linux下MySQL安装（单机版）](docs/mysql/0.Linux下MySQL安装（单机版）.md)
+- [1.MySQL常用命令总结](docs/mysql/1.MySQL常用命令总结.md)
+- [2.5分钟带你快速入门MySQL](docs/mysql/2.5分钟带你快速入门MySQL.md)
+- [3.为什么数据库不建议使用UUID？](docs/mysql/3.为什么数据库不建议使用UUID？.md)
+- [4.MySQL数据库优化方案](docs/mysql/4.MySQL数据库优化方案.md)
+- [5.MySQL SQL优化最佳实践：提升SpringBoot+MyBatis应用性能](docs/mysql/5.MySQL%20SQL优化最佳实践：提升SpringBoot+MyBatis应用性能.md)
 
 ## PostgreSQL
 
