@@ -98,7 +98,13 @@
 
 ## Linux
 
-- [1.掌握这30个Linux命令，轻松玩转终端：运维与开发必备指南](docs/linux/1.掌握这30个Linux命令，轻松玩转终端：运维与开发必备指南.md)
+- [1.linux基本操作](docs/linux/basics/1.linux基本操作.md)
+- [2.Systemd服务管理与配置实战](docs/linux/2.Systemd服务管理与配置实战.md)
+- [3.Linux服务器资源监控神器：这些命令能让你快速定位性能瓶颈！](docs/linux/3.Linux服务器资源监控神器：这些命令能让你快速定位性能瓶颈！%20.md)
+- [4.Linux日志侦探手册：让故障排查像破案一样简单！](docs/linux/4.Linux日志侦探手册：让故障排查像破案一样简单！.md)-[1.掌握这30个Linux命令，轻松玩转终端：运维与开发必备指南](docs/linux/5.掌握这30个Linux命令，轻松玩转终端：运维与开发必备指南.md)
+- [5.掌握这30个Linux命令，轻松玩转终端：运维与开发必备指南](docs/linux/5.掌握这30个Linux命令，轻松玩转终端：运维与开发必备指南.md)
+- [6.shell编程基础_上](docs/linux/shell/1.shell编程基础_1.md)
+- [7.shell编程基础_下](docs/linux/shell/2.shell编程基础_2.md)
 
 ## Docker
 
