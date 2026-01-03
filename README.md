@@ -134,8 +134,9 @@
 
 ### PostgreSQL
 
-- [1.大话Pgvector插件的IVFFlat索引算法](docs/PostgreSQL/1.大话Pgvector插件的IVFFlat索引算法.md)
-- [2.大话PG数据库Pgvector插件的HNSW索引算法](docs/PostgreSQL/2.大话PG数据库Pgvector插件的HNSW索引算法.md)
+- [1.5分钟带你快速入门PostgreSQL](docs/PostgreSQL/1.5分钟带你快速入门PostgreSQL.md)
+- [2.大话Pgvector插件的IVFFlat索引算法](docs/PostgreSQL/2.大话Pgvector插件的IVFFlat索引算法.md)
+- [3.大话PG数据库Pgvector插件的HNSW索引算法](docs/PostgreSQL/3.大话PG数据库Pgvector插件的HNSW索引算法.md)
 
 ### MongoDB
 
