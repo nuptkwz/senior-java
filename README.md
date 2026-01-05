@@ -161,3 +161,5 @@
 - [3.Spring Boot自动装配揭秘：神奇管家如何自动打理你的应用](docs/SpringBoot/3.Spring%20Boot自动装配揭秘：神奇管家如何自动打理你的应用.md)
 - [4.Spring Boot数据源高可用实现的源码分析](docs/SpringBoot/4.Spring%20Boot数据源高可用实现的源码分析.md)
 - [5.SpringBoot跨域解决的终极指南：从入门到上线](docs/SpringBoot/5.SpringBoot跨域解决的终极指南：从入门到上线.md)
+- [6.Spring Boot Starter揭秘：让Java开发像点外卖一样简单](docs/SpringBoot/6.Spring%20Boot%20Starter揭秘：让Java开发像点外卖一样简单！.md)
+- [7.SpringBoot配置文件加载顺序：一场配置界的权力游戏](docs/SpringBoot/7.SpringBoot配置文件加载顺序：一场配置界的权力游戏.md)
