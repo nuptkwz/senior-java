@@ -163,3 +163,8 @@
 - [5.SpringBoot跨域解决的终极指南：从入门到上线](docs/SpringBoot/5.SpringBoot跨域解决的终极指南：从入门到上线.md)
 - [6.Spring Boot Starter揭秘：让Java开发像点外卖一样简单](docs/SpringBoot/6.Spring%20Boot%20Starter揭秘：让Java开发像点外卖一样简单！.md)
 - [7.SpringBoot配置文件加载顺序：一场配置界的权力游戏](docs/SpringBoot/7.SpringBoot配置文件加载顺序：一场配置界的权力游戏.md)
+- [8.Spring Boot定时任务实战：让代码像闹钟一样准时工作！](docs/SpringBoot/8.Spring%20Boot定时任务实战：让代码像闹钟一样准时工作！.md)
+- [9.高效任务调度：Quartz分布式任务实战与架构详解](docs/SpringBoot/9.高效任务调度：Quartz分布式任务实战与架构详解.md)
+- [10.JDBC揭秘：为什么2026年了它仍然是Java后端开发的必修课？](docs/SpringBoot/10.JDBC揭秘：为什么2026年了它仍然是Java后端开发的必修课？.md)
+- [11.Spring魔法堂：JdbcTemplate如何化身数据库操作“智能管家”](docs/SpringBoot/11.Spring魔法堂：JdbcTemplate如何化身数据库操作“智能管家”.md)
+- [12.数据库连接池全对比：从HikariCP到Druid，高手是这样选型的！](docs/SpringBoot/12.数据库连接池全对比：从HikariCP到Druid，高手是这样选型的！.md)
