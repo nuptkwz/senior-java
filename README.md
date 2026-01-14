@@ -168,3 +168,6 @@
 - [10.JDBC揭秘：为什么2026年了它仍然是Java后端开发的必修课？](docs/SpringBoot/10.JDBC揭秘：为什么2026年了它仍然是Java后端开发的必修课？.md)
 - [11.Spring魔法堂：JdbcTemplate如何化身数据库操作“智能管家”](docs/SpringBoot/11.Spring魔法堂：JdbcTemplate如何化身数据库操作“智能管家”.md)
 - [12.数据库连接池全对比：从HikariCP到Druid，高手是这样选型的！](docs/SpringBoot/12.数据库连接池全对比：从HikariCP到Druid，高手是这样选型的！.md)
+- [13.高性能数据库连接池HikariCP实战揭秘：SpringBoot整合与性能调优](docs/SpringBoot/13.高性能数据库连接池HikariCP实战揭秘：SpringBoot整合与性能调优.md)
+- [14.数据库连接池的“健康检查员”：那个熟悉的SELECT 1，你配好了吗？](docs/SpringBoot/14.数据库连接池的“健康检查员”：那个熟悉的SELECT%201，你配好了吗？.md)
+- [15.Druid连接池实战：你的数据库连接管理专家，让性能飞起来！](docs/SpringBoot/15.Druid连接池实战：你的数据库连接管理专家，让性能飞起来！.md)
